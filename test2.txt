@@ -1,4 +1,4 @@
-��һ��ʹ��github
+第一次练习github
 
 
-git status  �鿴״̬
+git status  查看状态
