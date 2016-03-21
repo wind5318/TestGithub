@@ -1,0 +1,4 @@
+第一次练习github
+
+
+git status  查看状态
